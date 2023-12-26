@@ -6,11 +6,13 @@ body{
 .head{
     background-color: #1F2937;
     display: flex;
+    flex: 1;
     flex-direction: column;
-    height: 500px;
     padding: 50px 100px;
     margin: 0px;
 }
+
+/* this section is for header*/
 .header{
     display: flex;
     justify-content: space-between;
@@ -34,4 +36,9 @@ a{
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
+}
+/* this section is for introduction */
+.introduction{
+    display: flex;
+
 }
