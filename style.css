@@ -196,3 +196,13 @@ a{
     align-items: center;
 }
 /* This section is for footer */
+.foot{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+.footer{
+    color: #EEEE    ;
+}
